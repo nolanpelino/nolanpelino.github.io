@@ -1,0 +1,16 @@
+.assignment  {
+    display :flex; 
+    padding: 20px;
+    
+}
+
+.assignment img {
+   
+    border: 5px solid #555;
+    width: 400px;
+    padding: 10px;
+    margin-right: 25px;
+
+  }
+
+  
