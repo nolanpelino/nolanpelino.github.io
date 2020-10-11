@@ -2,6 +2,7 @@
     display :flex; 
     padding: 20px;
     
+    
 }
 
 .assignment img {
@@ -13,4 +14,14 @@
 
   }
 
-  
+  h1 {
+      text-align: center;
+      color: #E61031;
+      text-decoration-line: underline;
+      text-decoration-color: #005BAD;
+  }
+
+  a {
+      text-decoration:none;
+      color:#005BAD;
+  }
