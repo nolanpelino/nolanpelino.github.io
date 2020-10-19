@@ -11,6 +11,8 @@
     width: 400px;
     padding: 10px;
     margin-right: 25px;
+    box-shadow: 5px 10px gray;
+    
 
   }
 
@@ -25,3 +27,4 @@
       text-decoration:none;
       color:#005BAD;
   }
+
