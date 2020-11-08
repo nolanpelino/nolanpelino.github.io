@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Lobster</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Kitchen" sketch:type="MSLayerGroup" transform="translate(-727.000000, -1198.000000)" stroke="#535353" stroke-width="2" stroke-linejoin="round">
+            <g id="Lobster" transform="translate(737.000000, 1199.000000)" sketch:type="MSShapeGroup">
+                <path d="M28,49.1857759 L28,20 L14,20 L14,49.1857759 C13.3628371,50.0379926 13,51.0187979 13,52.0625 C13,55.3416907 16.581722,58 21,58 C25.418278,58 29,55.3416907 29,52.0625 C29,51.0187979 28.6371629,50.0379926 28,49.1857759 Z" id="Rectangle-791" stroke-linecap="round"></path>
+                <rect id="Rectangle-792" stroke-linecap="round" x="1" y="20" width="14.9819708" height="7"></rect>
+                <rect id="Rectangle-792" stroke-linecap="round" transform="translate(33.490985, 23.500000) scale(-1, 1) translate(-33.490985, -23.500000) " x="26" y="20" width="14.9819708" height="7"></rect>
+                <path d="M15,44 L26.0453606,44" id="Line" stroke-linecap="square"></path>
+                <path d="M15,40 L26.0453606,40" id="Line" stroke-linecap="square"></path>
+                <path d="M15,36 L26.0453606,36" id="Line" stroke-linecap="square"></path>
+                <rect id="Rectangle-793" stroke-linecap="round" x="17" y="14" width="8" height="8" rx="3"></rect>
+                <path d="M40.0911223,20.997585 C40.0911223,20.997585 43.6264755,10.6483301 41.0597785,6.34820513 C38.4930814,2.04808013 35.230381,0.722692832 35.230381,0.722692832 C35.230381,0.722692832 37.6370654,14.1517862 36.6305334,16.7233184 C35.6240014,19.2948507 35.8656754,20.2067575 35.8656754,20.2067575" id="Path-1720" stroke-linecap="round"></path>
+                <path d="M36.392586,14.6253755 C32.0674614,11.3845756 29.9498855,7.2763525 30.0009,2" id="Path-1721" stroke-linecap="round"></path>
+                <path d="M5.09112231,20.997585 C5.09112231,20.997585 8.62647551,10.6483301 6.05977847,6.34820513 C3.49308143,2.04808013 0.23038098,0.722692832 0.23038098,0.722692832 C0.23038098,0.722692832 2.63706542,14.1517862 1.63053342,16.7233184 C0.624001434,19.2948507 0.865675439,20.2067575 0.865675439,20.2067575" id="Path-1723" stroke-linecap="round" transform="translate(3.612251, 10.860139) scale(-1, 1) translate(-3.612251, -10.860139) "></path>
+                <path d="M12.392586,14.6253755 C8.06746144,11.3845756 5.94988554,7.2763525 6.00089999,2" id="Path-1722" stroke-linecap="round" transform="translate(9.196293, 8.312688) scale(-1, 1) translate(-9.196293, -8.312688) "></path>
+                <path d="M19.5028699,14.9673695 L16.0237961,9.28626231 L13.4460603,12.3464974" id="Path-1724" stroke-linecap="round"></path>
+                <path d="M28.5028699,14.9673695 L25.0237961,9.28626231 L22.4460603,12.3464974" id="Path-1725" stroke-linecap="round" transform="translate(25.474465, 12.126816) scale(-1, 1) translate(-25.474465, -12.126816) "></path>
+                <path d="M27,33 L38.007629,33 L42.6056895,30.5807194" id="Path-1726" stroke-linecap="round"></path>
+                <path d="M27.2947633,36.9527267 L35.0309091,36.9527267 L37.8484889,40" id="Path-1727" stroke-linecap="round"></path>
+                <path d="M27.2947633,42.0090831 L35.0309091,42.0090831 L37.8484889,45.0563564" id="Path-1727" stroke-linecap="round"></path>
+                <path d="M0,33.0000001 L10.0653387,33 L14.6633992,30.5807194" id="Path-1730" stroke-linecap="round" transform="translate(7.331700, 31.790360) scale(-1, 1) translate(-7.331700, -31.790360) "></path>
+                <path d="M4,37 L11.7361458,37 L14.5537256,40.0472733" id="Path-1728" stroke-linecap="round" transform="translate(9.276863, 38.523637) scale(-1, 1) translate(-9.276863, -38.523637) "></path>
+                <path d="M4,42 L11.7361458,42 L14.5537256,45.0472733" id="Path-1729" stroke-linecap="round" transform="translate(9.276863, 43.523637) scale(-1, 1) translate(-9.276863, -43.523637) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
